@@ -22,7 +22,6 @@ public class AuthorDetailController implements Initializable, MyController {
 	private static Logger logger = LogManager.getLogger();
 
 	@FXML private Button saveAuthor;
-	@FXML private Button deleteAuthor; 
 	@FXML private TextField firstName;
 	@FXML private TextField lastName;
 	@FXML private TextField doB;
