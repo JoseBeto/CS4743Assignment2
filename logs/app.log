@@ -874,21 +874,3 @@
 16:01:45.874 INFO  controller.AuthorListController : Rodger deleted
 16:01:49.046 INFO  controller.AppController : Author list menu item clicked
 16:01:50.211 INFO  assignment2.Launcher : Closing connection...
-19:22:46.583 INFO  assignment2.Launcher : Creating connection...
-19:23:14.469 INFO  controller.AppController : Author list menu item clicked
-19:23:23.609 INFO  controller.AuthorListController : Ted clicked
-19:23:26.442 INFO  controller.AuthorDetailController : Model's name is Ted
-19:23:34.175 INFO  controller.AuthorDetailController : Model's name is Ted
-19:23:39.657 INFO  controller.AppController : Author list menu item clicked
-19:23:40.975 INFO  controller.AuthorListController : Ted clicked
-19:23:43.151 INFO  controller.AppController : Author list menu item clicked
-19:23:51.472 INFO  controller.AppController : Author list menu item clicked
-19:23:55.421 INFO  assignment2.Launcher : Closing connection...
-19:23:57.946 INFO  assignment2.Launcher : Creating connection...
-19:24:02.381 INFO  controller.AppController : Author list menu item clicked
-19:24:06.768 INFO  controller.AppController : Add Author menu item clicked
-19:24:09.086 INFO  controller.AppController : Author list menu item clicked
-19:24:12.150 INFO  controller.AuthorListController : Fred clicked
-19:24:24.306 INFO  controller.AuthorDetailController : Model's name is Fred
-19:24:28.134 INFO  controller.AppController : Author list menu item clicked
-19:24:29.272 INFO  controller.AuthorListController : Fred clicked
